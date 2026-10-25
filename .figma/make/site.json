@@ -1,0 +1,10 @@
+{
+  "description": "A heartfelt digital love letter for Dedeee, offering personalized encouragement, calming reminders, and a virtual hug before her TKA exam.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
